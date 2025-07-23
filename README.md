@@ -23,21 +23,6 @@ Este é um projeto simples de CRUD (Create, Read, Update, Delete) desenvolvido e
 - JavaScript
 - HTML5 / CSS3
 
-## 📁 Estrutura de Pastas
-
-crud-php/
-├── conexao.php
-├── index.php
-├── css/
-│ └── styles.css
-├── actions/
-│ ├── salvar.php
-│ ├── editar.php
-│ ├── excluir.php
-│ ├── listar.php
-│ └── atualizar.php
-└── README.md
-
 ## 💡 Objetivo
 
 Este projeto foi feito com o intuito de praticar e reforçar conhecimentos em desenvolvimento web com foco em PHP, além de simular um fluxo completo de CRUD para fins de aprendizado e portfólio.
@@ -57,7 +42,7 @@ As senhas cadastradas são armazenadas com segurança utilizando a função `pas
 
 Se quiser trocar ideia ou colaborar em projetos:
 
-- LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com) *(atualize com seu perfil real)*
+- LinkedIn: [linkedin.com/in/gabrieldesa1](https://www.linkedin.com/in/gabrieldesa1/) 
 - GitHub: [github.com/gabrieldesa1](https://github.com/gabrieldesa1)
 
 ---
